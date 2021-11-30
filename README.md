@@ -2,6 +2,6 @@
 
 - 🔭 I’m currently working as a :coffee: Software developer for a German company doing funny things although I am getting introduced in the DevOps magic world and it is being very motivational for me.
 - I'm currently getting introduced in the world of  Kubernetes :cowboy_hat_face:
-- 🌱 I’m currently following :kick_scooter: some courses on my own during my free time in order to improve some of my skills :mechanical_arm:
+- 🌱 I’m currently following :kick_scooter: some courses on my own during my spare-time to improve some of my skills :mechanical_arm:
 - 💬 Visit me at www.linkedin.com/in/luismaqueda 
 - 📫 How to reach me: luismaqueda@gmail.com
