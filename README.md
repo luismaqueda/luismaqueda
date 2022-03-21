@@ -4,7 +4,7 @@ linkedin: **https://linkedin.com/in/luismaqueda**
 
 
 ## Profile
-I am a **Software engineer** focused in backend development, working mainly with **Java** stack technologies, although I have been working with frontend as well. **Scrum** as working methodology. With regard to the source code, I like to apply principles of cleaning code, design patterns whenever possible, as well as unit tests, to obtain an understandable, reusable, durable and strong code. Recently playing the role of **DevOps** Engineer which motivates me greatly, letting me to re-discover myself. I have participated in different **international projects** related to banking, insurance, tourism and consumer products, bringing me the opportunity to work with multi-cultural team mates from different countries.
+I am a **Software engineer** focused in backend development, working mainly with **Java** stack technologies, although I have been working with frontend as well. **Scrum** as working methodology. With regard to the source code, I like to apply principles of clean code, design patterns whenever possible, as well as unit tests, to obtain an understandable, reusable, durable and strong code. Recently playing the role of **DevOps** Engineer which motivates me greatly, letting me to re-discover myself. I have participated in different **international projects** related to banking, insurance, tourism and consumer products, bringing me the opportunity to work with multi-cultural team mates from different countries.
 
 ## Education
 - **Computer Science bachelor's degree** - Physics systems at *Universidad de Sevilla*
