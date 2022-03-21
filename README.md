@@ -58,7 +58,7 @@ Some of the tools I use to work with are: **Jenkins**, **Maven**, **kubernetes**
 
 ## Technical skills
 *Although I have mainly participated in backend tech stacks, I have also did some developments using different stacks as well as frontent developments*
-- **Programming languages**: JavaScript, Java, C#.NET
+- **Programming languages**: Java, C#.NET, JavaScript
 - **Operating systems**: Windows 7/8/10, Linux, Android, Mac OS
 - **Back end frameworks**: jUnit, Spring MVC, Spring Security, Spring Data, JPA
 - **Front end frameworks**: AngularJS, Bootstrap
